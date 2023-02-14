@@ -1,0 +1,24 @@
+.listTodo {
+  margin: auto;
+  width: 30%;
+}
+
+.todoItem {
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todoItemContainer {
+  background-color: #b6227b;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.todoActions {
+  display: flex;
+  flex-direction: column;
+}
